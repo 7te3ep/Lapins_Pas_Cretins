@@ -1,0 +1,5 @@
+Pour utiliser le projet, il suffit de lancer le fichier index.html présent au chemin suivant : sources/front/index.html
+Requiert : 
+Il faut être connecté à Internet pour que la librairie D3JS soit bien importée. 
+Le navigateur doit être récent (<2016) et ne pas être Internet Explorer.  
+L’écran doit être plus large que 1360 pixels.
